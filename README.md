@@ -31,10 +31,12 @@ This script will go through each folder in your root and make a **grading.txt** 
 Script is placed in root folder of the gradebook.
 Will go through every folder and find the file named grading.txt and get the last line of that file.
 The file should look like **assignment_5.txt**
-Important part is to have a value, i.e **90**, on the last line of the file and by itself. 
+Important part is to have a **value, i.e 90, on the last line** of the file and by itself. 
 
 The other part of the script will make a retting.csv with the grading on each line
 This can then be imported into another spreadsheet where the values are held
+
 Keep in mind that most likely your folders will be sorted on the username while blackboard will have some other order.
+
 To paste it into the google sheet you will most likely have to select all the rows and select sort based on column "c", or the column that holds the username. Then you click on file, import, upload and select the grading.csv. Make sure you have selected the rights cells and click replace data at selected cell. 
 
