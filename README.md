@@ -1,5 +1,5 @@
 # grading_tools
-Tools to automate some of the process of grading assignments via blackboard
+### Tools to automate some of the process of grading assignments via blackboard
 
 The process is -> cd to root folder.
 
