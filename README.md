@@ -3,14 +3,14 @@ Tools to automate some of the process of grading assignments via blackboard
 
 The process is -> cd to root folder.
 
-- python unzip-all.py
-- Manually delete all the redundant zip files and .txt files
-- python make_grading_files.py
-- Fill the grading.txt files as you grade
-- When finished
-- python collect_grading.py
-- import grading.csv to spreadsheet for grading overview.
-- manually fill out the gradings in blackboard for a quality check.
+1. python unzip-all.py
+2. Manually delete all the redundant zip files and .txt files
+3. python make_grading_files.py
+4. Fill the grading.txt files as you grade
+5. When finished with the grading
+6. python collect_grading.py
+7. import grading.csv to spreadsheet for grading overview.
+8. manually fill out the gradings in blackboard for a quality check.
 
 
 # unzip-all.py
